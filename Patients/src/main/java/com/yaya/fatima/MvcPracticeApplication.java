@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.yaya.fatima.Dao.PatientRepository;
 import com.yaya.fatima.entities.Patient;
-
+//comment
 @SpringBootApplication
 public class MvcPracticeApplication implements CommandLineRunner {
 	@Autowired
